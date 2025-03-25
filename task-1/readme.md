@@ -36,3 +36,5 @@ Created files and folders using Visual Studio Code.
 git add .
 git commit -m 'init'
 ```
+
+![alt text](image-1.png)
