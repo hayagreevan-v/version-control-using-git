@@ -59,18 +59,24 @@ git push -u origin features
 
 ![alt text](./images/image-6.png)
 
-![alt text](image-7.png)
+![alt text](./images/image-7.png)
 
-![alt text](image-8.png)
+![alt text](./images/image-8.png)
 
 ## 5. Merging Pull Request in remote (Github)
 
-![alt text](image-9.png)
+![alt text](./images/image-9.png)
 
-![alt text](image-10.png)
+![alt text](./images/image-10.png)
 
 ## 6. Merged feature branch into main branch on the remote (Github)
 
 ### Main branch after merge
-![alt text](image-11.png)
+![alt text](./images/image-11.png)
+
+### Pulling the remote repository
+``` git
+git pull
+```
+![alt text](.images/image-12.png)
 
