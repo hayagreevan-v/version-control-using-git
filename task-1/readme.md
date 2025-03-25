@@ -38,3 +38,22 @@ git commit -m 'init'
 ```
 
 ![alt text](image-1.png)
+
+## 3. Created New Branch and Switching to created Branch
+
+``` git
+git branch features
+git checkout features
+git branch
+```
+
+![alt text](image-2.png)
+
+## 4. Changes made in features branch and commited to git
+
+``` git
+git add .
+git commit -m 'features-branch commit'
+```
+![alt text](image-3.png)
+
