@@ -57,3 +57,18 @@ git commit -m 'features-branch commit'
 ```
 ![alt text](image-3.png)
 
+## 5. Difference between Main branch and Features branch
+
+Main Branch
+![alt text](image-4.png)
+
+Features Branch
+![alt text](image-5.png)
+
+## 6. Merge features branch into main branch
+Switching to main branch and merging features branch
+
+``` git
+git checkout main
+git merge features
+```
