@@ -72,3 +72,19 @@ Switching to main branch and merging features branch
 git checkout main
 git merge features
 ```
+![alt text](image-6.png)
+
+## 7. Commit history
+
+``` git
+git log
+```
+
+main branch before merge
+![alt text](image-7.png)
+
+features branch before merge
+![alt text](image-8.png)
+
+main branch after merge
+![alt text](image-9.png)
