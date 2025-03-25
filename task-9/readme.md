@@ -45,3 +45,32 @@ git add .
 git commit -m 'features-branch task-9'
 git push -u origin features
 ```
+![alt text](./images/image-3.png)
+
+## 4. Opening Pull Request to merge branches in Github
+
+### Main branch (Before Merge)
+![alt text](./images/image-4.png)
+
+### Features branch (Before Merge)
+![alt text](./images/image-5.png)
+
+### Creating Pull Request
+
+![alt text](./images/image-6.png)
+
+![alt text](image-7.png)
+
+![alt text](image-8.png)
+
+## 5. Merging Pull Request in remote (Github)
+
+![alt text](image-9.png)
+
+![alt text](image-10.png)
+
+## 6. Merged feature branch into main branch on the remote (Github)
+
+### Main branch after merge
+![alt text](image-11.png)
+
