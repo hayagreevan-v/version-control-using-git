@@ -25,20 +25,20 @@ git commit -m 'Task-5 nth commit'
 ### Modifying Hello.js
 
 First Commit
-![alt text](image.png)
+![alt text](./images/image.png)
 
 Second Commit
-![alt text](image-1.png)
+![alt text](./images/image-1.png)
 
 Third Commit
-![alt text](image-2.png)
+![alt text](./images/image-2.png)
 
 ## 2. Seeing commit history
 
 ``` git
 git log
 ```
-![alt text](image-3.png)
+![alt text](./images/image-3.png)
 
 ## 3. Reordering commits
 
@@ -46,34 +46,34 @@ Initially,
 ``` git
 git rebase -i HEAD~3
 ```
-![alt text](image-4.png)
+![alt text](./images/image-4.png)
 
 ### Moving second commit ahead of third commit
 
 Editing git-rebase-todo and saving it.
-![alt text](image-6.png)
+![alt text](./images/image-6.png)
 
 Merge conflict arised.
-![alt text](image-7.png)
+![alt text](./images/image-7.png)
 
 Merge Conflict resolved.
-![alt text](image-8.png)
+![alt text](./images/image-8.png)
 
 ``` git
 git add .
 git rebase --continue
 ```
-![alt text](image-9.png)
+![alt text](./images/image-9.png)
 
-![alt text](image-10.png)
+![alt text](./images/image-10.png)
 
-![alt text](image-11.png)
+![alt text](./images/image-11.png)
 
 ### Updated Commit History
 ``` git
 git log
 ```
-![alt text](image-12.png)
+![alt text](./images/image-12.png)
 
 ## 4. Squashing commits
 
@@ -83,21 +83,21 @@ git rebase -i HEAD~3
 ### Editing git-rebase-todo
 
 Initally,
-![alt text](image-14.png)
+![alt text](./images/image-14.png)
 
 After Modifying,
-![alt text](image-13.png)
+![alt text](./images/image-13.png)
 
 Adding Commit message
-![alt text](image-15.png)
+![alt text](./images/image-15.png)
 
 Successfully squashed!
-![alt text](image-16.png)
+![alt text](./images/image-16.png)
 
 ``` git
 git log
 ```
-![alt text](image-17.png)
+![alt text](./images/image-17.png)
 
 ## 5. Editing commit message
 
@@ -106,21 +106,21 @@ git rebase -i HEAD~1
 ```
 
 Initially,
-![alt text](image-18.png)
+![alt text](./images/image-18.png)
 
 After Editing and saving it,
-![alt text](image-19.png)
+![alt text](./images/image-19.png)
 
 ### Editing Commit Message
 
 Initially,
-![alt text](image-20.png)
+![alt text](./images/image-20.png)
 
 After Editing,
-![alt text](image-21.png)
+![alt text](./images/image-21.png)
 
 Successfully, Completed Editing Commit Message
-![alt text](image-22.png)
+![alt text](./images/image-22.png)
 
 
 # Squashing Benefits
